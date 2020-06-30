@@ -23,5 +23,5 @@ body {
 .bigItem {
   grid-row-start: 2;
   grid-column-start: 2;
-  grid-column-end: 4;
+
 }
